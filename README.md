@@ -1,4 +1,4 @@
-# MCodes
+# MohitCodes
 <h1 align="left">Hi 👋, I'm Mohit Gupta</h1>
 <h3 align="left">I'm front-end engineer and designer.</h3>
 <p>I work as front-end developer and UI/UX designer. I'm based in Delhi, India.</p>
