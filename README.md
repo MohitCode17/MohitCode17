@@ -6,7 +6,7 @@ I'm a passionate front-end developer and UI/UX designer based in Delhi, India. S
 
 ---
 
-## What I'm Currently Focusing On
+## 🔭 What I'm Currently Focusing On
 
 - 🔥 Enhancing my expertise in **React.js** and backend development (Node.js, Express.js, MongoDB).
 - 📚 Strengthening my problem-solving skills by working on **Data Structures and Algorithms (DSA)**.
@@ -14,7 +14,7 @@ I'm a passionate front-end developer and UI/UX designer based in Delhi, India. S
 
 ---
 
-## Skills & Tools
+## 🛠️ Skills & Tools
 
 **Frontend Development:**
 
@@ -34,17 +34,18 @@ I'm a passionate front-end developer and UI/UX designer based in Delhi, India. S
 
 ---
 
-## Fun Fact ⚡
+## 🌱 Fun Fact
 
-I'm always a work in progress. There's always something new to learn!
+I believe that growth is a constant journey. I'm always learning something new and pushing the boundaries of what I can achieve!
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
 Feel free to reach out to me if you'd like to discuss web development, collaborate on a project, or just chat about tech.
 
 - 📧 Email: **mohit.codes17@gmail.com**
+- 🌐 [Portfolio Website](https://mohitguptadev.netlify.app/)
 
 ---
 
