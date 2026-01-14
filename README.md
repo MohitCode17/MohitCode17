@@ -45,7 +45,7 @@ I believe that growth is a constant journey. I'm always learning something new a
 Feel free to reach out to me if you'd like to discuss web development, collaborate on a project, or just chat about tech.
 
 - 📧 Email: **mohit.codes17@gmail.com**
-- 🌐 [Portfolio Website](https://mohitguptadev.netlify.app/)
+- 🌐 [Portfolio Website](https://mgupta-dev.vercel.app/)
 
 ---
 
