@@ -1,94 +1,89 @@
 # Hi 👋, I'm Mohit Gupta
 
-### Front-End Engineer & Designer | Self-Taught Full-Stack Developer
+### Backend-Oriented Full-Stack Developer | GenAI Engineer | Systems-Focused Builder
 
-I'm a passionate front-end developer and UI/UX designer based in Delhi, India. Since 2021, I’ve been on an exciting journey of mastering web development and continuously upgrading my skills. I love crafting clean and interactive interfaces, and I thrive on solving complex problems through elegant solutions.
+I'm a **self-taught software developer** based in **Delhi, India**, with a strong focus on **Backend GenAI engineering**, **clean UI/UX**, and **modern JavaScript ecosystems**.
 
----
-
-## 🔭 What I'm Currently Focusing On
-
-- 🔥 Enhancing my expertise in **React.js** and backend development (Node.js, Express.js, MongoDB).
-- 📚 Strengthening my problem-solving skills by working on **Data Structures and Algorithms (DSA)**.
-- 🎨 Creating intuitive and user-friendly UI/UX designs.
+I started my tech journey in **2022** from a **non-technical background** and gradually transitioned into full‑stack development by building real-world projects instead of just following tutorials. Today, I enjoy designing scalable interfaces, building backend systems, and experimenting with **AI-powered applications**.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 What I Do
 
-**Frontend Development:**
-
-- React.js, Redux, JavaScript (ES6+)
-- HTML5, CSS3, SASS, Tailwind CSS, Bootstrap
-- UI/UX Design Principles
-
-**Backend Development:**
-
-- Node.js, Express.js, MongoDB, Firebase
-
-**Others:**
-
-- Git & GitHub
-- Responsive Web Design
-- API Integration
+* Design and build **scalable backend systems** using Node.js & Express
+* Architect **REST APIs, authentication flows, and data models**
+* Work with **databases (MongoDB) and system-level backend concepts**
+* Build **GenAI-powered backends** (RAG pipelines, agent orchestration)
+* Connect backend systems with clean, efficient frontend interfaces
 
 ---
 
-## 🌱 Fun Fact
+## 🔭 Currently Working On
 
-I believe that growth is a constant journey. I'm always learning something new and pushing the boundaries of what I can achieve!
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out to me if you'd like to discuss web development, collaborate on a project, or just chat about tech.
-
-- 📧 Email: **mohit.codes17@gmail.com**
-- 🌐 [Portfolio Website](https://mgupta-dev.vercel.app/)
+* 🧱 **Backend engineering depth** (Node.js internals, async model, scalability)
+* 🧠 **System design fundamentals** (APIs, services, data flow)
+* 🤖 **Generative AI backends** (RAG, multi-agent systems, AI orchestration)
+* 📊 **DSA & problem-solving** with backend interview focus
 
 ---
 
-### Technologies I've Worked With
+## 🛠️ Tech Stack
 
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-</p>
+### Frontend (Supporting Skill)
+
+* React.js, Redux, JavaScript (ES6+)
+* HTML5, CSS3, SASS
+* Tailwind CSS, Bootstrap
+* UI/UX Design Principles
+
+### Backend
+
+* Node.js, Express.js
+* MongoDB, Postgres Sql, Firebase
+* REST APIs & Authentication
+
+### AI / GenAI (Primary Focus)
+
+* RAG (Retrieval-Augmented Generation)
+* Agent-based architectures
+* OpenAI, Groq Cloud APIs
+* AI Assistants & Chatbots
+
+### Tools & Practices
+
+* Git & GitHub
+* API Integration
+* Responsive Design
+* Clean Code & Component Reusability
+
+---
+
+## 📌 Projects Highlight
+
+* 🤖 **Personal AI Assistant (Nova)** – Agent-based AI assistant with real use cases
+* 🧠 **AI Chatbot Systems** – Multi-agent & RAG-based chatbots
+* 🌐 **Full-Stack Web Apps** – Authentication, dashboards, APIs
+
+*(More projects available on my repositories)*
+
+---
+
+## 🌱 My Learning Philosophy
+
+> I think in systems, not screens.
+
+While I started with frontend development, my long-term focus is on **backend engineering and AI-powered systems**. I enjoy understanding *how things work under the hood* — async execution, request lifecycles, data flow, and system behavior.
+
+I prefer building **end-to-end backend logic** that scales and integrates cleanly with AI and frontend layers.
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: **[mohit.codes17@gmail.com](mailto:mohit.codes17@gmail.com)**
+* 🌐 Portfolio: **[https://mgupta-dev.vercel.app/](https://mgupta-dev.vercel.app/)**
+* 💼 Open to: Frontend / Full‑Stack / GenAI opportunities
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and connect!*
